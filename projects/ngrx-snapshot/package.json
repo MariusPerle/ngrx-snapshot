@@ -1,6 +1,6 @@
 {
   "name": "ngrx-snapshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a snapshot of ngrx store with the latest actions and state",
   "author": "m_perle",
   "repository": {
